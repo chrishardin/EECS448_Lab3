@@ -1,0 +1,28 @@
+p {
+    font-size: 40px;
+    color: green;
+    font-family: cursive;
+}
+
+
+
+body {
+    text-align: center;
+    background-image: url(./download2.png);
+    background-size: 50%;
+
+}
+
+a {
+font-size: 30px;
+}
+
+a:hover {
+    background-color:green;
+    color: blue;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
